@@ -17,7 +17,7 @@ st.set_page_config(
 # Backend URL
 # =================================
 
-API_URL = "https://mproject-knzg.onrender.com"
+API_URL = "https://mproject-gfud.onrender.com"
 
 
 # =================================
