@@ -24,7 +24,7 @@ st.set_page_config(
 
 MONGO_URL = "mongodb+srv://neha:123@cluster0.tnk7mad.mongodb.net/?appName=Cluster0"
 #API_URL = "http://127.0.0.1:8000"
-API_URL = "https://mproject-knzg.onrender.com"
+API_URL = "https://mproject-gfud.onrender.com"
 
 try:
     client = MongoClient(
